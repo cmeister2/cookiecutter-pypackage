@@ -1,5 +1,5 @@
 {% if cookiecutter.create_author_file == 'y' -%}
-include AUTHORS.rst
+include AUTHORS.md
 {% endif -%}
 include CHANGELOG.md
 include CONTRIBUTING.md
